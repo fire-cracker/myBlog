@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "${workspaceFolder}\\myvenv\\Scripts\\python.exe",
+    "python.jediEnabled": false
+}
