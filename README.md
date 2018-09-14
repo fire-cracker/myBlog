@@ -3,18 +3,18 @@
 
 ## Table of Contents
 
-- [Project Overview](#Project Overview)
+- [Project Overview](#Project-Overview)
 - [Features](#Features)
-- [Built with](#Built with)
+- [Built with](#Built-with)
 - [Documentation](#Documentation)
-- [Known Issues](#Known Issues)
+- [Known Issues](#Known-Issues)
 - [Installation](#Installation)
 - [Contributing](#Contributing)
 - [License](#License)
 
 ## Project Overview
 
-MyBlog is a decussion and information website which allows users to reflect,share opinions and discuss various topics. It was built using Django, Html, Css,Bootstrap and ORMs
+MyBlog is a discussion and information website which allows users to reflect,share opinions and discuss various topics. It was built using Django, Html, Css,Bootstrap and ORMs
 
 ## Features
 
@@ -48,7 +48,7 @@ Everything works as expected; However:
 - $ git clone `https://github.com/oyedejipeace/myBlog.git`
 - $ cd Djangogirls
 - $ pip install , to install dependencies
-- $ python manage.py runserver, to start the server Once the server starts-up, you can query the site at `http://localhost:8000/` using the end points stated above.
+- $ python manage.py runserver, to start the server. Once the server starts-up, you can query the site at `http://localhost:8000/` using the end points stated above.
 
 
 ## Contributing
