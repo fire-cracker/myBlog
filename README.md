@@ -3,11 +3,11 @@
 
 ## Table of Contents
 
-- [Project Overview](#Project Overview)
+- [Project Overview](#Project-Overview)
 - [Features](#Features)
-- [Built with](#Built with)
+- [Built with](#Built-with)
 - [Documentation](#Documentation)
-- [Known Issues](#Known Issues)
+- [Known Issues](#Known-Issues)
 - [Installation](#Installation)
 - [Contributing](#Contributing)
 - [License](#License)
