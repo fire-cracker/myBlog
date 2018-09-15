@@ -3,14 +3,14 @@
 
 ## Table of Contents
 
--[Project Overview](#Project Overview)
--[Features](#Features)
--[Built with](#Built with)
--[Documentation](#Documentation)
--[Known Issues](#Known Issues)
--[Installation](#Installation)
--[Contributing](#Contributing)
--[License](#License)
+- [Project Overview](#Project Overview)
+- [Features](#Features)
+- [Built with](#Built with)
+- [Documentation](#Documentation)
+- [Known Issues](#Known Issues)
+- [Installation](#Installation)
+- [Contributing](#Contributing)
+- [License](#License)
 
 ## Project Overview
 
@@ -18,25 +18,25 @@ MyBlog is a decussion and information website which allows users to reflect,shar
 
 ## Features
 
--Users can create an account and log in,
--A user can write and post,
--A user can see a history of posts,
--The user can add, edit or delete posts,
+- Users can create an account and log in,
+- A user can write and post,
+- A user can see a history of posts,
+- The user can add, edit or delete posts,
 
 ## Built with
 
--Django,
--Html, 
--Css,
--Bootstrap
--ORMs
+- Django,
+- Html, 
+- Css,
+- Bootstrap
+- ORMs
 
 ## End Points
--`get(localhost:5000/)`                 - Shows all Post
--`get(localhost:5000/post/:id)`         - Shows a particular Post
--`post(localhost:5000/post/new)`        - Saves and publishes a post 
--`put(localhost:5000/post/:id/edit)`    - Edit/Update a particular post
--`delete(localhost:5000/post/:id)`      - Deletes a particular post
+- `get(localhost:5000/)`                 -  Shows all Post
+- `get(localhost:5000/post/:id)`         -  Shows a particular Post
+- `post(localhost:5000/post/new)`        -  Saves and publishes a post 
+- `put(localhost:5000/post/:id/edit)`    -  Edit/Update a particular post
+- `delete(localhost:5000/post/:id)`      - Deletes a particular post
 
 ## Known issues
 
@@ -45,10 +45,10 @@ Everything works as expected; However:
 
 ## Installation
 
--$ git clone `https://github.com/oyedejipeace/myBlog.git`
--$ cd Djangogirls
--$ pip install , to install dependencies
--$ python manage.py runserver, to start the server Once the server starts-up, you can query the site at `http://localhost:8000/` using the end points stated above.
+- $ git clone `https://github.com/oyedejipeace/myBlog.git`
+- $ cd Djangogirls
+- $ pip install , to install dependencies
+- $ python manage.py runserver, to start the server Once the server starts-up, you can query the site at `http://localhost:8000/` using the end points stated above.
 
 
 ## Contributing
